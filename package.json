@@ -12,6 +12,8 @@
     "db:migrate": "drizzle-kit migrate"
   },
   "dependencies": {
+    "@corsair-dev/gmail": "^0.1.4",
+    "@corsair-dev/googlecalendar": "^0.1.5",
     "corsair": "^0.1.76",
     "dotenv": "^17.4.2",
     "drizzle-orm": "^0.45.2",
